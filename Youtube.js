@@ -4,7 +4,7 @@
 
 /*
 [Script]
-http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https://Choler.github.io/Surge/Script/YouTube.js
+http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https://raw.githubusercontent.com/seamly01/neawly/master/Youtube.js
 
 [MITM]
 hostname = *.googlevideo.com
